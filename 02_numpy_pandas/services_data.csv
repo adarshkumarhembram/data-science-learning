@@ -1,0 +1,16 @@
+id,location,program_id,service_name,audience,eligibility,fees,status,wait_time,city,rating
+1,101,2001,Food Assistance,Low income families,Income below poverty line,0,active,No wait,San Mateo,4.2
+2,102,2002,Job Training,Unemployed adults,18+ age,50,active,2 weeks,Daly City,4.5
+3,103,2003,Senior Care,Senior citizens,Age 60+,20,active,1 week,Redwood City,4.0
+4,104,2004,Health Checkup,General public,None,10,active,3 days,Belmont,3.8
+5,105,2005,Child Education Support,Children age 6-14,School enrollment required,0,active,1 week,San Carlos,4.3
+6,106,2006,Housing Assistance,Homeless individuals,None,0,inactive,No wait,San Mateo,4.1
+7,107,2007,Mental Health Counseling,Adults 18+,Appointment required,30,active,5 days,Daly City,4.6
+8,108,2008,Legal Aid,Low income residents,Income verification,0,active,1 week,Redwood City,4.4
+9,109,2009,Drug Rehabilitation,Adults 21+,Medical assessment,100,active,3 weeks,Belmont,3.9
+10,110,2010,Community Meals,Senior citizens,Age 60+,5,active,No wait,San Mateo,4.7
+11,111,2011,Language Classes,Immigrants,None,20,active,1 week,San Carlos,4.2
+12,112,2012,Emergency Shelter,Homeless families,None,0,active,Immediate,Daly City,4.5
+13,113,2013,Financial Literacy,Young adults,Age 18-30,15,active,2 weeks,Redwood City,4.1
+14,114,2014,Child Care Support,Working parents,Employment proof,25,active,4 days,Belmont,4.0
+15,115,2015,Substance Abuse Support,Adults 18+,Medical referral,40,inactive,2 weeks,San Mateo,3.7
